@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoWeb/src/bookStore/controller"
+	"LearnGO/src/bookStore/controller"
 	"html/template"
 	"net/http"
 )
@@ -22,7 +22,7 @@ func main() {
 	http.Handle("/pages/", http.StripPrefix("/pages/", http.FileServer(http.Dir("./src/bookStore/views/pages"))))
 	http.HandleFunc("/", IndexHandler)
 	http.HandleFunc("/login", controller.Login)
-	http.HandleFunc("/getBooks",controller.GetBooks)
+	http.HandleFunc("/getBooks", controller.GetBooks)
 	http.HandleFunc("/checkUserName", controller.CheckUserName)
 	http.HandleFunc("/regist", controller.Regist)
 	http.ListenAndServe(":8080", nil)

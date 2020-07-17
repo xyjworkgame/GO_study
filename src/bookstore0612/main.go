@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoWeb/src/bookstore0612/controller"
+	"LearnGO/src/bookstore0612/controller"
 	"net/http"
 )
 

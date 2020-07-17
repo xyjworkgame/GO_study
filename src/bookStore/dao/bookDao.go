@@ -8,8 +8,8 @@
 package dao
 
 import (
-	"GoWeb/src/bookStore/model"
-	"GoWeb/src/bookStore/utils"
+	"LearnGO/src/bookStore/model"
+	"LearnGO/src/bookStore/utils"
 )
 
 // getBooks 获取数据库中所有的图书

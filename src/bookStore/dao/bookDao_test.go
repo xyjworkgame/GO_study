@@ -8,13 +8,12 @@
 package dao
 
 import (
-	"GoWeb/src/bookstore/dao"
 	"fmt"
 	"testing"
 )
 
 func TestGetBooks(t *testing.T) {
-	books ,_ := dao.GetBooks()
+	books ,_ := GetBooks()
 
 	fmt.Println(books)
 }

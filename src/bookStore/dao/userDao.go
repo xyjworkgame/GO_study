@@ -8,8 +8,8 @@
 package dao
 
 import (
-	"GoWeb/src/bookStore/model"
-	"GoWeb/src/bookStore/utils"
+	"LearnGO/src/bookStore/model"
+	"LearnGO/src/bookStore/utils"
 )
 
 //CheckUserNameAndPassword 根据用户名和密码从数据库中查询一条记录

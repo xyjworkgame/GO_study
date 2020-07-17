@@ -1,7 +1,7 @@
 package model
 
 import (
-	"GoWeb/src/web01_db/utils"
+	"LearnGO/src/web01_db/utils"
 	"fmt"
 )
 

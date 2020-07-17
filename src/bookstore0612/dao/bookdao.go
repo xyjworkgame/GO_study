@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"GoWeb/src/bookstore0612/model"
-	"GoWeb/src/bookstore0612/utils"
+	"LearnGO/src/bookstore0612/model"
+	"LearnGO/src/bookstore0612/utils"
 	"strconv"
 )
 

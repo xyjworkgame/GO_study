@@ -8,7 +8,7 @@
 package main
 
 import (
-	"GoWeb/src/web01_db/model"
+	"LearnGO/src/web01_db/model"
 	json2 "encoding/json"
 	"fmt"
 	"net/http"

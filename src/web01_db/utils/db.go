@@ -16,7 +16,7 @@ var(
 
 
 func init() {
-	Db,err = sql.Open("mysql","root:123456@tcp(localhost:3306)/test")
+	Db, err = sql.Open("mysql","root:123456@tcp(localhost:3306)/test")
 	if err != nil{
 		panic(err.Error())
 	}

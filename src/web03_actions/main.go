@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoWeb/src/web03_actions/model"
+	"LearnGO/src/web03_actions/model"
 	"html/template"
 	"net/http"
 )

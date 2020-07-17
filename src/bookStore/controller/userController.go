@@ -8,7 +8,7 @@
 package controller
 
 import (
-	"GoWeb/src/bookStore/dao"
+	"LearnGO/src/bookStore/dao"
 	"html/template"
 	"net/http"
 )
