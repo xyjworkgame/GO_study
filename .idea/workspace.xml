@@ -20,286 +20,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d654237-86a8-4239-8840-13f6d6c069dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LearnGO/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/README.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/account/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/account/utils/myFamilyAccount.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter02/escaptechar/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter02/escaptechar/pkgexec/exec01.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter02/homework01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter02/homework2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/basictype2string13/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/booldemo10/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/chardemo09/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/demo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/demo02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/demo03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/demo04/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/demo04/model/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/demo05/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/exec/exec02.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/exec/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/floatdemo08/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/identifierdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/intdemo06/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/pointerdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/stringdemo11/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/stringdemo11/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/stringtobasictype/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter03/transtype12/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo02/main(1).go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo04/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo05/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo06/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo07/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo08/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/demo09/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/exec/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/exec02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter04/exec03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/breakdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/continuedemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/breakexec/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/continueexec/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/exec01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/exec02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/exec03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/exec04/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/forexec/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/forexec03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/exec/forexec2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/fordemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/gotodemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/ifdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/ifelsedemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/switchdemo/demo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter05/whiledemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/bulidinfunc/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/deferdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/error/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/exercise01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/exercise02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/exercise03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/exercise04/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcdemo02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcdemo03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcdemo04/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcdemo05/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcdemo06/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcdemo07/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcinit/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/funcinit/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/fundemo01/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/fundemo01/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/fundemo01/utils/utils2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/printmulti/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/printpyramid/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/stringfunc/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/timeExercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/timefunc/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter06/varscope/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/arrayExercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/arraydemo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/arraydemo02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/arraydetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/fbnexercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/forrange/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/sliceExercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/slicedemo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/sliceforrange/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/sliceuse/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter07/stringslice/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter08/binaryfind/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter08/bubbleSort/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter08/exercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter08/finddemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter08/multiarray/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter08/traversearrary/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/exercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/mapcrud/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/mapdemo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/mapdetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/mapslice/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/mapsort/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/maptraverse/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter09/mapuse/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/exercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/factory/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/factory/model/student.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/fielddetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/methodDemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/methoddetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/methodexercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/methodexercise02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/methodvsfunc/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/oopexercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/structassign/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/structcreate/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/structdemo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/structdetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter10/structdetails2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/abstract/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/assert/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/assertapply01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/assertapply02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/encapexercise/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/encapexercise/model/account.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/encapsulate/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/encapsulate/model/person.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/exercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/exercise02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/extendsdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/extendsdetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/extendsdetails2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/interfaceDetails/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/interfacedemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/interfacedetails2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/interfacevsextends/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter11/poly/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter12/testMyAccount.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/argsdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/argsdemo/test.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo02/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo04/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo05/exe02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo05/exe03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo05/exe04/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo05/exe05/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo05/exe06/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/filedemo05/exe07/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/flagdemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/flagdemo/test.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/json/serial/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter14/json/unmarshal/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter15/testcase02/monster.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter15/testcase02/monster_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter15/testingdemo01/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter15/testingdemo01/testcase01/cal.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter15/testingdemo01/testcase01/cal_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter15/testingdemo01/testcase01/sub_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channelapply/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channelclose/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channeldemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channeldetails/demo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channeldetails/demo02/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channeldetails/demo03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/channelexercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/cpudemo/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/goroutineapply03/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/goroutineapply03/test/test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/goroutinedemo/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/goroutinedemo02/main/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/goroutinedemo02/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter16/goroutinedemo02/main2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter17/bestapply/apply01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter17/const/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter17/exercise/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter17/reflectdemo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter17/reflectdetails/details5/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter18/redisdemo/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter18/redisdemo02/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter18/redisdemo02/main2/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter18/redispool/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter18/tcpdemo/client/client(1).go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter18/tcpdemo/server/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/Josephu/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/binarytree/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/circelqueue/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/circlesinglelink/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/doublelink/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/expStack/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/hashtable/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/insertsort/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/migong/demo01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/migong/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/quicksort/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/selectsort/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/singlelink/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/singlequeue/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/sparsearray/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chapter20/stack/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/login.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/model/curUser.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/process/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/process/smsMgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/process/smsProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/process/userMgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/process/userProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/client/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/common/message/message.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/common/message/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/main/processor.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/main/redis.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/model/error.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/model/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/model/userDao.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/process/smsProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/process/userMgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/process/userProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatroom/server/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/client/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/client/process/clientMgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/client/process/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/client/process/smsProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/client/process/userProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/client/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/common/message.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/common/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/main/clientProcessor(1).go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/main/redis.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/model/error.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/model/userDao.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/process/clientMgr.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/process/smsProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/process/userProcess.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/service/userService.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/chatsys/server/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/customer/model/customer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/customer/service/customerService.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/customer/view/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/customerManage/model/customer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/customerManage/service/customerService.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/customerManage/view/customerView.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/familyaccount/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/familyaccount/utils/familyAccount.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/02_FamilyAccount2.0/02.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/03_customer/model/customers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/03_customer/service/customersService.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/03_customer/view/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/03_customer/view/view.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/client/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework/server/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/03_customer/model/customers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/03_customer/service/customersService.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/03_customer/view/customer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/03_customer/view/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/03_customer/view/view.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/exercise01/familyAccount.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/homework13day/exercise01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/oa/db/db.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/oa/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/oa/utils/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/tcpdemo/client/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/tcpdemo/server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/Chapter_1_变量.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/Chapter_2_基本数据类型.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/chapter_3_运算符.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/chapter_4_流程控制.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/chapter_5_数组.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/chapter_6_切片.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/chapter_7_map.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/chapter_8_函数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGO/语言基础/test1.go" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/frontend/handler/products.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/frontend/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/frontend/model/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/src/frontend/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro/helloword/client/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro/helloword/proto/greeter.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro/helloword/proto/greeter.pb.micro.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro/helloword/proto/greeter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro/helloword/service/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GO_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GO_study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_5_17_08__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_8_5_17_08__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/.idea/back.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/handler/auth/auth.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/handler/companyIntroHandler/company_intro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/handler/companyIntroHandler/proto/demo.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/handler/companyIntroHandler/proto/demo.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/handler/consts.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/handler/rep_data.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/middleware/jwt.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/model/User.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/model/company_intro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/model/page.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/repository/fileUtils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/router/route.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/.idea/companyIntroHandler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/companyIntro/companyIntro.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/companyIntro/companyIntro.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/driver/mysql.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/model/company_intro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/model/page.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/repository/company_intro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/repository/services.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/test/client/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/test/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/utils/JsonTran.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/utils/calPageTotal.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyIntroHandler/utils/formatType.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,6 +98,7 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
   </component>
   <component name="ProjectId" id="1enHmkdscVQGUI9UywbD7AhTC0C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -346,97 +121,38 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/micro" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GO\GO_study" />
       <recent name="E:\GO\GO_study\micro\demo\hello\server" />
       <recent name="E:\GO\GO_study\micro\demo\hello\client" />
       <recent name="E:\GO\GO_study\micro\demo\proto" />
       <recent name="E:\GO\GO_study\goRpc" />
-      <recent name="E:\GO\GO_study\rpc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GO\GO_study\micro\helloword\proto" />
+      <recent name="E:\GO\GO_study\micro\helloword\proto\micro\helloword\proto" />
       <recent name="E:\GO\GO_study" />
       <recent name="E:\GO\GO_study\src" />
       <recent name="E:\GO\GO_study\micro\demo\hello" />
-      <recent name="E:\GO\GO_study\goRpc\demo\proto\hello" />
-      <recent name="E:\GO\GO_study\goRpc\demo\hello" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="GO_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build GoWeb/nsq/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GO_study" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/nsq/client/client.go" />
-      <package value="GoWeb/nsq/client" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build GoWeb/nsq/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GO_study" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/nsq/server/server.go" />
-      <package value="GoWeb/nsq/server" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build GoWeb/rpc/demo/easy (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GO_study" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/rpc/demo/easy/client.go" />
-      <package value="GoWeb/rpc/demo/easy" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <package value="rpc" />
       <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build GoWeb/rpc/zookeeper" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GO_study" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/rpc/zookeeper/server.go" />
-      <package value="GoWeb/rpc/zookeeper" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build GoWeb/rpc/zookeeper/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GO_study" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/rpc/zookeeper/client/client.go" />
-      <package value="GoWeb/rpc/zookeeper/client" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="GO_study" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build GoWeb/rpc/zookeeper/client" />
-        <item itemvalue="Go Build.go build GoWeb/rpc/zookeeper" />
-        <item itemvalue="Go Build.go build GoWeb/rpc/demo/easy (1)" />
-        <item itemvalue="Go Build.go build GoWeb/nsq/server" />
-        <item itemvalue="Go Build.go build GoWeb/nsq/client" />
+        <item itemvalue="Go Build.go build test.go" />
       </list>
     </recent_temporary>
   </component>
@@ -475,6 +191,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="314" key="#Go_Modules/0.0.1920.1040@0.0.1920.1040" timestamp="1594950606691" />
+    <state x="410" y="166" width="1350" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596855788369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="166" width="1350" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596855788369" />
     <state x="1060" y="64" key="#go_build_GoWeb/RPC和Protobuf/rpc" timestamp="1595388384113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -503,26 +223,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="580" y="64" key="#go_build_GoWeb/xorm/0.0.1920.1040@0.0.1920.1040" timestamp="1595379657567" />
-    <state x="678" y="215" key="FileChooserDialogImpl" timestamp="1596608428627">
+    <state x="678" y="215" key="FileChooserDialogImpl" timestamp="1596855741430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="678" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596608428627" />
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1596618230891">
+    <state x="678" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596855741430" />
+    <state width="1867" height="265" key="GridCell.Tab.0.bottom" timestamp="1596856560042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596618230891" />
-    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1596618230890">
+    <state width="1867" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596856560042" />
+    <state width="1867" height="265" key="GridCell.Tab.0.center" timestamp="1596856560042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596618230890" />
-    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1596618230890">
+    <state width="1867" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596856560042" />
+    <state width="1867" height="265" key="GridCell.Tab.0.left" timestamp="1596856560042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596618230890" />
-    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1596618230890">
+    <state width="1867" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596856560042" />
+    <state width="1867" height="265" key="GridCell.Tab.0.right" timestamp="1596856560042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596618230890" />
+    <state width="1867" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596856560042" />
     <state width="1867" height="331" key="GridCell.Tab.1.bottom" timestamp="1595840538814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -543,10 +263,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="401" y="298" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1595463903021" />
-    <state x="374" y="78" key="SettingsEditor" timestamp="1596606656765">
+    <state x="374" y="78" key="SettingsEditor" timestamp="1596855652349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="374" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596606656765" />
+    <state x="374" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596855652349" />
     <state x="599" y="163" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596618514149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
