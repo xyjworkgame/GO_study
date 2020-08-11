@@ -1,0 +1,168 @@
+syntax = "proto3";
+
+package mall;
+
+//-------------model-------------
+message Product {
+  int64 id = 1;
+  int64 category_id = 2;
+  string subtitle = 3 ;
+  string main_image = 4;
+  string sub_images = 5;
+  string detail = 6;
+  string price = 7;
+  int64 stock = 8;
+  int32 status = 9;
+  string create_time = 10;
+  string update_time = 11;
+}
+message Category{
+  int64  id = 1;
+  int64 parent_id = 2;
+  string name = 3;
+  int32 status = 4;
+  int32 sort_order = 5;
+  string create_time = 6;
+  string update_time = 7;
+}
+message Order{
+  int64 id = 1;
+  double order_no = 2;
+  int64 user_id = 3;
+  int64 shipping_id = 4;
+  double payment = 5;
+  int32 payment_type = 6;
+  int32 postage = 7;
+  int32 status = 8;
+  string payment_time = 9;
+  string send_time = 10;
+  string end_time = 11;
+  string close_time = 12;
+  string update_time = 13;
+}
+message PayInfo{
+  int64 id = 1;
+  double order_no = 2;
+  int64 user_id = 3;
+  int64 pay_platform = 4;
+  string platform_number = 5;
+  string platform_status = 6;
+  double pay_amount = 7;
+  string create_time = 8;
+  string update_time = 9;
+}
+message OrderItem{
+  int64 id = 1;
+  double order_no = 2;
+  int64 user_id = 3;
+  int64 product_id = 4;
+  string product_name = 5;
+  string product_image = 6;
+  string current_unit_price = 7;
+  string quantity = 8;
+  string total_price = 9;
+  string create_time = 10;
+  string update_time = 11;
+}
+message Shipping {
+  int64 id = 1;
+  int64 user_id = 2;
+  string receiver_name = 3;
+  string receiver_phone = 4;
+  string receiver_mobile = 5;
+  string receiver_province = 6;
+  string receiver_city = 7;
+  string receiver_district = 8;
+  string receiver_address = 9;
+  string receiver_zip = 10;
+  string create_time = 11;
+  string update_time = 12;
+}
+message User{
+  int64 id = 1;
+  string username = 2;
+  string password = 3;
+  string email = 4;
+  string phone = 5;
+  string question = 6;
+  string answer = 7;
+  int32 role = 8;
+  string create_time = 9;
+  string update_time = 10;
+}
+message Page{
+  int64 page_num = 1;
+  int64 page_size = 2;
+}
+//----------------product service------------------
+service ProductService {
+  rpc Gets(GetsProductReq) returns (GetsProductRes){}
+  rpc GeById(GetProductByIdReq) returns (GetProductByIdRes){}
+  rpc GetsDo(GetsProductDoReq) returns (GetsProductDoRes){}
+  rpc GetSearchDo(GetProductSearchDoReq) returns (GetProductSearchDoRes){}
+  rpc PutStatusDo(PutProductStatusDoReq) returns (PutProductStatusDoRes){}
+  rpc PostProductDo(PostProductDoReq) returns (PostProductDoRes){}
+}
+message PostProductDoReq{
+  Product product = 1;  // 当id 为-1 则是 新增， id正常为更新
+}
+message PostProductDoRes{
+  int32 status = 1;
+  string data = 2;
+}
+
+message PutProductStatusDoReq{
+  int64 product_id = 1;
+  int32 status = 2;
+}
+message PutProductStatusDoRes{
+  int32 status = 1;
+  string data = 2;
+}
+
+message GetProductSearchDoReq{
+  string product_name = 1;
+  int64 product_id = 2;
+  Page page = 3;
+}
+message GetProductSearchDoRes{
+  int32 status = 1;
+  repeated Product product = 2;
+  int64 totals = 3;
+}
+
+message GetsProductDoReq{
+  Page page = 1;
+}
+message GetsProductDoRes{
+  int32 status = 1;
+  repeated Product product = 2;
+  int64 totals = 3;
+}
+message GetsProductReq {
+  int64 category_id = 1;
+  Page page = 2;
+  string keyword = 3;
+  string orderBy = 4;
+  int64 totals = 5;
+}
+
+message GetsProductRes {
+  int32 status = 1;
+  repeated Product products = 2;
+}
+
+message GetProductByIdReq {
+  int64 product_id = 1;
+}
+
+message GetProductByIdRes {
+  int32 status = 1;
+  repeated Product product = 2;
+}
+
+//----------------orders service------------------
+//service OrdersService {
+////  rpc Gets(GetsReq) returns (GetsRes){}
+//
+//}
