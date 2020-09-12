@@ -1,3 +1,3 @@
-module go_study
+module LearnGO
 
 go 1.14
