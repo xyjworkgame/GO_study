@@ -3,8 +3,6 @@ module rpc
 go 1.14
 
 require (
-	cloud.google.com/go v0.39.0 // indirect
-	contrib.go.opencensus.io/exporter/ocagent v0.4.6 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190306092124-e2d15f34fcf9 // indirect
 	github.com/Azure/azure-sdk-for-go v32.4.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/date v0.1.0 // indirect
@@ -15,7 +13,6 @@ require (
 	github.com/ChimeraCoder/gojson v1.1.0 // indirect
 	github.com/CloudyKit/jet/v3 v3.0.0 // indirect
 	github.com/Microsoft/go-winio v0.4.15-0.20190919025122-fc70bd9a86b5 // indirect
-	github.com/Microsoft/hcsshim v0.8.6 // indirect
 	github.com/OpenDNS/vegadns2client v0.0.0-20180418235048-a3fa4a771d87 // indirect
 	github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398 // indirect
 	github.com/ajg/form v1.5.1 // indirect
@@ -68,7 +65,6 @@ require (
 	github.com/edwingeng/doublejump v0.0.0-20200219153503-7cfc0ed6e836 // indirect
 	github.com/ef-ds/deque v1.0.4-0.20190904040645-54cb57c252a1 // indirect
 	github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385 // indirect
-	github.com/envoyproxy/go-control-plane v0.8.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v0.1.0 // indirect
 	github.com/etcd-io/bbolt v1.3.3 // indirect
 	github.com/evanphx/json-patch/v5 v5.0.0 // indirect
@@ -77,14 +73,14 @@ require (
 	github.com/fasthttp-contrib/websocket v0.0.0-20160511215533-1f3b11f56072 // indirect
 	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c // indirect
-	github.com/fsouza/go-dockerclient v1.3.6 // indirect
 	github.com/gavv/httpexpect v2.0.0+incompatible // indirect
 	github.com/go-git/go-git/v5 v5.1.0 // indirect
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible // indirect
 	github.com/gobwas/ws v1.0.3 // indirect
+	github.com/gogo/googleapis v1.1.0 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.1
 	github.com/gomodule/redigo v1.7.1-0.20190724094224-574c33c3df38 // indirect
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/go-cmp v0.5.0 // indirect
@@ -94,7 +90,6 @@ require (
 	github.com/gorilla/handlers v1.4.2 // indirect
 	github.com/gorilla/mux v1.7.3 // indirect
 	github.com/grandcat/zeroconf v1.0.0 // indirect
-	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.9.5 // indirect
 	github.com/hashicorp/consul/api v1.4.0 // indirect
@@ -103,6 +98,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hashicorp/memberlist v0.1.4 // indirect
 	github.com/iij/doapi v0.0.0-20190504054126-0bbf12d6d7df // indirect
+	github.com/ijc/Gotty v0.0.0-20170406111628-a8b993ba6abd // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
 	github.com/influxdata/influxdb1-client v0.0.0-20191209144304-8bf82d3c094d // indirect
 	github.com/iris-contrib/blackfriday v2.0.0+incompatible // indirect
@@ -123,7 +119,6 @@ require (
 	github.com/klauspost/cpuid v1.2.3 // indirect
 	github.com/klauspost/reedsolomon v1.9.3 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
-	github.com/labbsr0x/bindman-dns-webhook v1.0.0 // indirect
 	github.com/labbsr0x/goh v1.0.1 // indirect
 	github.com/lestrrat/go-envload v0.0.0-20180220120943-6ed08b54a570 // indirect
 	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f // indirect
@@ -137,6 +132,7 @@ require (
 	github.com/marten-seemann/qpack v0.1.0 // indirect
 	github.com/marten-seemann/qtls v0.9.1 // indirect
 	github.com/micro/cli/v2 v2.1.2 // indirect
+	github.com/micro/go-micro/v2 v2.9.1
 	github.com/microcosm-cc/bluemonday v1.0.2 // indirect
 	github.com/mitchellh/hashstructure v1.0.0 // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
@@ -144,7 +140,6 @@ require (
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/nacos-group/nacos-sdk-go v0.0.0-20191128082542-fe1b325b125c // indirect
 	github.com/namedotcom/go v0.0.0-20180403034216-08470befbe04 // indirect
-	github.com/nats-io/nats-server/v2 v2.0.4 // indirect
 	github.com/nats-io/nats.go v1.9.2 // indirect
 	github.com/nlopes/slack v0.6.1-0.20191106133607-d06c2a2b3249 // indirect
 	github.com/nrdcg/auroradns v1.0.0 // indirect
@@ -215,14 +210,15 @@ require (
 	golang.org/x/text v0.3.3 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	golang.org/x/tools v0.0.0-20191216173652-a0e659d51361 // indirect
-	google.golang.org/appengine v1.6.0 // indirect
-	google.golang.org/grpc v1.23.1
+	google.golang.org/grpc v1.27.0
+	google.golang.org/protobuf v1.25.0
 	gopkg.in/ini.v1 v1.51.1 // indirect
 	gopkg.in/ns1/ns1-go.v2 v2.0.0-20190730140822-b51389932cbc // indirect
 	gopkg.in/redis.v5 v5.2.9 // indirect
 	gopkg.in/square/go-jose.v2 v2.3.1 // indirect
 	gopkg.in/telegram-bot-api.v4 v4.6.4 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20191120175047-4206685974f2 // indirect
+	istio.io/gogo-genproto v0.0.0-20190614210408-e88dc8b0e4db // indirect
 	k8s.io/kubernetes v1.13.0 // indirect
 	rsc.io/binaryregexp v0.2.0 // indirect
 	sigs.k8s.io/yaml v1.1.0 // indirect

@@ -162,7 +162,14 @@ message GetProductByIdRes {
 }
 
 //----------------orders service------------------
-//service OrdersService {
-////  rpc Gets(GetsReq) returns (GetsRes){}
-//
-//}
+service OrdersService {
+  // 订单list
+  rpc Gets(GetsOrderReq) returns (GetsOrderRes){}
+
+}
+message GetsOrderReq {
+  Page page = 1;
+}
+message GetsOrderRes {
+
+}

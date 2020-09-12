@@ -15,8 +15,8 @@ var (
 const (
 
 	// 开发数据库连接
-	devConn190 = "root:123456-abc@tcp(192.168.20.190)/mall?charset=utf8&parseTime=True&loc=Local"
-	devConn    = "root:123456@tcp(192.168.60.100)/okzm?charset=utf8&parseTime=True&loc=Local"
+	devConn190 = "root:123456-abc@tcp(localhost)/mall?charset=utf8&parseTime=True&loc=Local"
+	devConn    = "root:123456@tcp(192.168.60.100)/mall?charset=utf8&parseTime=True&loc=Local"
 )
 
 func init() {
