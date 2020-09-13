@@ -154,17 +154,20 @@ func main() {
 	flag.Parse()
 	mobileSize := ""
 	pcSize := ""
-	if InputMobile != nil{
+	if *InputMobile != ""{
 		if strings.Contains(*InputMobile,"*"){
 			mobileSize = strings.Replace(*InputMobile, "*", "x", 1)
 		}
+		mobileSize = *InputMobile
+
 	}else {
 		mobileSize = sizeMobile
 	}
-	if InputPc != nil{
+	if *InputPc != ""{
 		if strings.Contains(*InputPc,"*"){
 			pcSize = strings.Replace(*InputPc, "*", "x", 1)
 		}
+		pcSize = *InputPc
 	}else {
 		pcSize = sizePC
 	}

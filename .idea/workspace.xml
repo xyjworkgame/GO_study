@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52345602-c2f0-4be3-a404-ae1eb4e05b32" name="Default Changelist" comment="更新">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Firewine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/picture.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/picture.go" beforeDir="false" afterPath="$PROJECT_DIR$/crawl/picture.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -116,7 +112,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="下载每日bing壁纸，pc和mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="下载每日bing壁纸，pc和mobile" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -130,45 +127,75 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="495" y="62" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1599929326670" />
-    <state width="1547" height="207" key="GridCell.Tab.0.bottom" timestamp="1599973529263">
+    <state width="1547" height="259" key="GridCell.Tab.0.bottom" timestamp="1599975063388">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="207" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599973529263" />
-    <state width="1547" height="207" key="GridCell.Tab.0.center" timestamp="1599973529263">
+    <state width="1547" height="259" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599975063388" />
+    <state width="1547" height="259" key="GridCell.Tab.0.center" timestamp="1599975063388">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="207" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599973529263" />
-    <state width="1547" height="207" key="GridCell.Tab.0.left" timestamp="1599973529263">
+    <state width="1547" height="259" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599975063387" />
+    <state width="1547" height="259" key="GridCell.Tab.0.left" timestamp="1599975063387">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="207" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599973529263" />
-    <state width="1547" height="207" key="GridCell.Tab.0.right" timestamp="1599973529263">
+    <state width="1547" height="259" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599975063387" />
+    <state width="1547" height="259" key="GridCell.Tab.0.right" timestamp="1599975063388">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="207" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599973529263" />
-    <state width="1547" height="259" key="GridCell.Tab.1.bottom" timestamp="1599929394373">
+    <state width="1547" height="259" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599975063388" />
+    <state width="1547" height="259" key="GridCell.Tab.1.bottom" timestamp="1599975066145">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="259" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599929394373" />
-    <state width="1547" height="259" key="GridCell.Tab.1.center" timestamp="1599929394373">
+    <state width="1547" height="259" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599975066145" />
+    <state width="1547" height="259" key="GridCell.Tab.1.center" timestamp="1599975066144">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="259" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1599929394373" />
-    <state width="1547" height="259" key="GridCell.Tab.1.left" timestamp="1599929394373">
+    <state width="1547" height="259" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1599975066144" />
+    <state width="1547" height="259" key="GridCell.Tab.1.left" timestamp="1599975066144">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="259" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1599929394373" />
-    <state width="1547" height="259" key="GridCell.Tab.1.right" timestamp="1599929394373">
+    <state width="1547" height="259" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1599975066144" />
+    <state width="1547" height="259" key="GridCell.Tab.1.right" timestamp="1599975066144">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1547" height="259" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599929394373" />
+    <state width="1547" height="259" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599975066144" />
     <state x="214" y="0" key="SettingsEditor" timestamp="1599966212803">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="214" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1599966212803" />
+    <state x="292" y="98" key="Vcs.Push.Dialog.v2" timestamp="1599974208416">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="292" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599974208416" />
     <state x="591" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1599967058882">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="591" y="149" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1599967058882" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/crawl/picture.go</url>
+          <line>173</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/crawl/picture.go</url>
+          <line>156</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/crawl/picture.go</url>
+          <line>165</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*InputMobile" language="go" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
